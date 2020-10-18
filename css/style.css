@@ -240,21 +240,21 @@ a {
     margin:auto;
 }
 
-.main h2 {
+/*.main h2 {
     background-color: #2e2e2e;
     color: #ffffff;
-    /* border-bottom: 1px solid #ffffffa4; */
+    border-bottom: 1px solid #ffffffa4;
     font-style: bold;
     font-size: 20px;
     padding: 20px;
     margin-top: 20px;
     box-sizing: border-box;
-    /* padding-left: 8px; */
+    padding-left: 8px;
 }
 .main p {
     box-sizing: border-box;
     padding:30px;
-}
+}*/
 
 .footer {
     background-color: hsla(0, 0%, 0%, 0.494);
